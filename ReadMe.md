@@ -1,8 +1,8 @@
 # Password Generator - for Windows and Linux
 ##Program preview
-[!](https://i.ibb.co/cb80vx3/Photo-1.png)](https://ibb.co/TK06Tr2)
+[![asciicast](https://i.ibb.co/cb80vx3/Photo-1.png)](https://ibb.co/TK06Tr2)
 ##Consumption
-[!](https://i.ibb.co/BKFvRHw/Photo-2.png)](https://ibb.co/M5QKLy9)
+[![asciicast](https://i.ibb.co/BKFvRHw/Photo-2.png)](https://ibb.co/M5QKLy9)
 #Installation
 ##Widows
 *Download the repository
