@@ -1,7 +1,7 @@
 # Password Generator - for Windows and Linux
-##Program preview
+## Program preview
 [![asciicast](https://i.ibb.co/cb80vx3/Photo-1.png)](https://ibb.co/TK06Tr2)
-##Consumption
+## Consumption
 [![asciicast](https://i.ibb.co/BKFvRHw/Photo-2.png)](https://ibb.co/M5QKLy9)
 #Installation
 ##Widows
